@@ -147,11 +147,4 @@ For questions, shoot me an email.
 
 ---
 
-### ✅ Final Notes for You
-
-- Drop in your Supabase credentials section when emailing
-- Replace `https://github.com/your-username/finlo-app.git` with your actual repo
-- Add demo screenshots/gifs to grab attention
-
-```
 ````
